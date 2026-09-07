@@ -1,16 +1,16 @@
 
-### 🎯 About Me
+### About Me
 
 * **Currently learning:** C#, .NET, Dart, and Vue.js.
 
-### 🌐 Connect With Me
+### Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seth-jabagat-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethandreyabrasado@gmail.com)
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages, Web & Mobile:**
 [![Languages & Frameworks](https://skillicons.dev/icons?i=react,vue,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+###  GitHub Stats & Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gsi78eywh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 💬 Random Dev Quote
+###  Random Dev Quote
 
 > *"Working code is a miracle. Do not question the miracle."*
 > 
