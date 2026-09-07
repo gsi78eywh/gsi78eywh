@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,45&height=180&section=header&text=Seth%20Andrey%20Jabagat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Web%20Developer&descFontSize=16&descAlignY=65" width="100%" alt="Header Banner" />
@@ -7,14 +7,9 @@
 
 ### 🎯 About Me
 
-* 🔭 **Currently working on:** Full-stack web applications and internal enterprise systems.
-* 🌱 **Currently learning:** Advanced architecture patterns, Vue, and database optimization.
-* ⚡ **Fun fact:** Passionate about building clean user interfaces and robust backend logic.
-
----
+* 🔭 **Currently learning on:**c#Dotnet,dart,vuejs.
 
 ### 🌐 Connect With Me
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seth-jabagat-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethandreyabrasado@gmail.com)
@@ -56,16 +51,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=gsi78eywh&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 💬 Random Dev Quote
 
-> *"Simplicity is prerequisite for reliability."*
+> *"Working code is a miracle. Do not question the miracle."*
 > 
-> — **Edsger W. Dijkstra**
+> — **Seth**
