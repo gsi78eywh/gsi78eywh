@@ -1,10 +1,9 @@
+
 ### 🎯 About Me
 
-* 🔭 **Currently learning:** C#, .NET, Dart, and Vue.js.
-
+* **Currently learning:** C#, .NET, Dart, and Vue.js.
 
 ### 🌐 Connect With Me
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seth-jabagat-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethandreyabrasado@gmail.com)
@@ -14,7 +13,7 @@
 ### 💻 Tech Stack & Tools
 
 **Languages, Web & Mobile:**
-[![Languages & Frameworks](https://skillicons.dev/icons?i=react,vue,c#,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
+[![Languages & Frameworks](https://skillicons.dev/icons?i=react,vue,csharp,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
 
 **Databases, Cloud & Infrastructure:**
 [![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,docker,git,github)](https://skillicons.dev)
