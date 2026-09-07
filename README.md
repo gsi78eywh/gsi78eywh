@@ -7,7 +7,7 @@
 
 ### 🎯 About Me
 
-* 🔭 **Currently working on:** Full-stack web applications and internal systems.
+* 🔭 **Currently working on:** Full-stack web applications and internal enterprise systems.
 * 🌱 **Currently learning:** Advanced architecture patterns, Vue, and database optimization.
 * ⚡ **Fun fact:** Passionate about building clean user interfaces and robust backend logic.
 
@@ -23,13 +23,23 @@
 
 ### 💻 Tech Stack & Tools
 
-**Languages, Frameworks & Databases:**
-[![My Skills](https://skillicons.dev/icons?i=react,vue,csharp,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express,mysql,postgres,supabase)](https://skillicons.dev)
+**Languages, Web & Mobile:**
+[![My Skills](https://skillicons.dev/icons?i=react,vue,csharp,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
+
+**Databases, Cloud & Infrastructure:**
+[![Backend Tools](https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,docker,git,github)](https://skillicons.dev)
+
+**Microsoft Ecosystem & Low-Code Solutions:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=sharepoint&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/MySQL_Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Server" />
+</p>
 
 **Development Environments & Utilities:**
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,androidstudio,powershell)](https://skillicons.dev)
-
-> **Additional Tools:** AI Utilities & Microsoft Power Platforms
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell)](https://skillicons.dev)
 
 ---
 
