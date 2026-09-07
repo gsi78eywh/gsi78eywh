@@ -13,7 +13,7 @@
 ### 💻 Tech Stack & Tools
 
 **Languages, Web & Mobile:**
-[![Languages & Frameworks](https://skillicons.dev/icons?i=react,vue,csharp,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
+[![Languages & Frameworks](https://skillicons.dev/icons?i=react,vue,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
 
 **Databases, Cloud & Infrastructure:**
 [![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,docker,git,github)](https://skillicons.dev)
