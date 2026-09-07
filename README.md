@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,vue,csharp,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
 
 **Databases, Cloud & Infrastructure:**
-[![Backend Tools](https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,docker,git,github)](https://skillicons.dev)
+[![Backend Tools](https://skillicons.dev/icons?i=mysql,render,postgres,supabase,azure,docker,git,github)](https://skillicons.dev)
 
 **Microsoft Ecosystem & Low-Code Solutions:**
 <p align="left">
@@ -39,7 +39,7 @@
 </p>
 
 **Development Environments & Utilities:**
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,ai,visualstudio,androidstudio,powershell)](https://skillicons.dev)
 
 ---
 
