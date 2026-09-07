@@ -1,14 +1,7 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,45&height=180&section=header&text=Seth%20Andrey%20Jabagat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Web%20Developer&descFontSize=16&descAlignY=65" width="100%" alt="Header Banner" />
-
-</div>
-
 ### 🎯 About Me
 
 * 🔭 **Currently learning:** C#, .NET, Dart, and Vue.js.
 
---
 
 ### 🌐 Connect With Me
 
