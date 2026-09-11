@@ -39,19 +39,6 @@
 
 ---
 
-###  GitHub Stats & Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsi78eywh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsi78eywh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsi78eywh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ###  Random Dev Quote
 
 > *"Working code is a miracle. Do not question the miracle."*
