@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-  <h1>Hi there, I'm <span style="color: #2563EB;">Seth</span> 👋</h1>
+  <h1>Hi there, I'm <span style="color: #2563EB;">Seth Andrey Jabagat</span> </h1>
   <p><em>Passionate Software & Microsoft Power Platform Developer</em></p>
 
   <!-- Connect Buttons -->
