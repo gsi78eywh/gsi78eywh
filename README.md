@@ -40,7 +40,7 @@ About Me
   <tr>
     <td align="center" width="25%"><strong>Databases & Cloud</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,aws,docker,railway,vercel,git,github" alt="Databases and Cloud" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,aws,docker,railway,vercel,git,github,antigravity" alt="Databases and Cloud" />
     </td>
   </tr>
   <tr>
