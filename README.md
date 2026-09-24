@@ -20,15 +20,15 @@
 
 </div>
 
-### 🚀 About Me
+About Me
 
-- 🔭 **Focus:** Building modern web, mobile apps, and robust enterprise automated workflows.
-- 📚 **Currently learning:** `C#`, `.NET`, `Dart`, `Angular`, and `Vue.js`.
-- ⚡ **Fun Fact:** *"Working code is a miracle. Do not question the miracle."*
+- **Focus:** Building modern web, mobile apps, and robust enterprise automated workflows.
+-  **Currently learning:** `C#`, `.NET`, `Dart`, `Angular`, and `Vue.js`.
+-  **Fun Fact:** *"Working code is a miracle. Do not question the miracle."*
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <table>
   <tr>
