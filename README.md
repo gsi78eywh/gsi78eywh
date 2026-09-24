@@ -1,7 +1,6 @@
-
 ### About Me
 
-* **Currently learning:** C#, .NET, Dart, and Vue.js.
+* **Currently learning:** C#, .NET, Dart, Angular, and Vue.js.
 
 ### Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seth-jabagat-portfolio.onrender.com)
@@ -16,7 +15,7 @@
 [![Languages & Frameworks](https://skillicons.dev/icons?i=react,vue,dotnet,dart,flutter,java,javascript,html,css,tailwind,vite,php,laravel,nodejs,express)](https://skillicons.dev)
 
 **Databases, Cloud & Infrastructure:**
-[![Databases & Cloud](https://skillicons.dev/icons?i=mysql,aws,railway,vercel,cloud,postgres,supabase,azure,docker,git,github)](https://skillicons.dev)
+[![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,aws,docker,railway,vercel,git,github)](https://skillicons.dev)
 
 **Microsoft Ecosystem & Low-Code Solutions:**
 <p align="left">
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=sharepoint&logoColor=white" alt="SharePoint" />
-  <img src="https://img.shields.io/badge/MySQL_Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Server" />
 </p>
 
 **AI & Development Environments:**
@@ -39,7 +37,7 @@
 
 ---
 
-###  Random Dev Quote
+### Random Dev Quote
 
 > *"Working code is a miracle. Do not question the miracle."*
 > 
