@@ -34,13 +34,15 @@ About Me
   <tr>
     <td align="center" width="25%"><strong>Languages & Frameworks</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,vue,dotnet,dart,flutter,java,js,html,css,tailwind,vite,php,laravel,nodejs,express" alt="Languages and Frameworks" />
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,dotnet,dart,flutter,java,js,html,css,tailwind,vite,php,laravel,nodejs,express,prisma" alt="Languages and Frameworks" />
     </td>
   </tr>
   <tr>
     <td align="center" width="25%"><strong>Databases & Cloud</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,azure,aws,docker,railway,vercel,git,github,antigravity" alt="Databases and Cloud" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase,azure,aws,docker,railway,vercel,git,github,antigravity" alt="Databases and Cloud" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+      <img src="https://img.shields.io/badge/FreeDNS-2E8B57?style=flat-square&logo=cloudflare&logoColor=white" alt="FreeDNS" />
     </td>
   </tr>
   <tr>
@@ -51,6 +53,7 @@ About Me
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=sharepoint&logoColor=white" alt="SharePoint" />
       <img src="https://img.shields.io/badge/Dataverse-002050?style=flat-square&logo=microsoft&logoColor=white" alt="Dataverse" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
     </td>
   </tr>
   <tr>
@@ -65,4 +68,3 @@ About Me
     </td>
   </tr>
 </table>
-
