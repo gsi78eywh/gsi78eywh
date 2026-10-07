@@ -34,7 +34,7 @@ About Me
   <tr>
     <td align="center" width="25%"><strong>Languages & Frameworks</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,angular,vue,dotnet,dart,flutter,java,js,html,css,tailwind,vite,php,laravel,nodejs,express,prisma" alt="Languages and Frameworks" />
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,dotnet,dart,flutter,java,js,html,css,typescript,tailwind,vite,php,laravel,nodejs,express,prisma" alt="Languages and Frameworks" />
     </td>
   </tr>
   <tr>
