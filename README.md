@@ -40,7 +40,7 @@ About Me
   <tr>
     <td align="center" width="25%"><strong>Databases & Cloud</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase,azure,aws,docker,railway,vercel,git,github,antigravity" alt="Databases and Cloud" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase,azure,aws,docker,railway,vercel,git,github,postgresql,antigravity" alt="Databases and Cloud" />
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
       <img src="https://img.shields.io/badge/FreeDNS-2E8B57?style=flat-square&logo=cloudflare&logoColor=white" alt="FreeDNS" />
     </td>
