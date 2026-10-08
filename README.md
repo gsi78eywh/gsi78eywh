@@ -5,7 +5,7 @@
 
   <!-- Connect Buttons -->
   <p>
-    <a href="https://seth-jabagat-portfolio.onrender.com" target="_blank">
+    <a href="https://sethandreyjabagat-web.up.railway.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/seth-andrey-jabagat-b3793b404" target="_blank">
